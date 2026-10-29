@@ -1,1 +1,1 @@
-# US-AI-Cost-Metrices
+# US-AI-Cost-Metrics
